@@ -32,3 +32,5 @@ I'm available for part-time or project-based opportunities.
 
 - 📫 Email: [inbox@osu-server-list.com](mailto:inbox@osu-server-list.com)  
 - 💬 Discord: `marcarbtrklss`
+
+![](https://komarev.com/ghpvc/?username=marcandreher)
